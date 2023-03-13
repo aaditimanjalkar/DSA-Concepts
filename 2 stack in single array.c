@@ -1,3 +1,4 @@
+include<stdio.h>
 struct stack 
 { 
     int a[20]; 
