@@ -1,3 +1,4 @@
+#include<stdio.h>
 struct queue 
 { 
 int a[5]; 
